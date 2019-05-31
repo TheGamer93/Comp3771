@@ -1,4 +1,4 @@
-function add
+function add ( $No1, $No2)
 {
     write-host ( $args[0] + $args[1] )
 }
